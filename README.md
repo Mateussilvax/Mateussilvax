@@ -24,23 +24,26 @@ Meu foco principal é a construção de aplicações robustas, eficientes e esca
 **Back-End & Controle de Versões:**
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,git,bash,github" alt="Back-End Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=maven" title="Maven" alt="Maven" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
 </p>
 
 **Front-End:**
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Front-End Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
 </p>
 
 **Banco de Dados & Infraestrutura:**
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker" alt="Database and Infra Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
 </p>
