@@ -1,31 +1,29 @@
-# Olá, eu sou o Mateus! 👋
+### Olá, eu sou o Mateus! 👋
 
-### Desenvolvedor Backend | Java & Spring Boot
+**Desenvolvedor Back-End** e entusiasta de tecnologia, atualmente na reta final da licenciatura em **Sistemas de Informação**.
+O meu foco principal é a construção de aplicações robustas, eficientes e escaláveis no back-end, mas também adoro explorar a geração de imagens e vídeos através de Inteligência Artificial nos meus tempos livres.
 
-Sou estudante da reta final de **Sistemas de Informação** e apaixonado por desenvolvimento de software, com foco principal na construção de aplicações robustas, eficientes e escaláveis no backend.
+📬 **Entrar em contacto:**
 
-## 🚀 Sobre mim
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 
-* 🎓 Concluindo o bacharelado em Sistemas de Informação.
-* 💻 Focado no ecossistema **Java**, explorando a fundo o framework **Spring Boot**.
-* 🛠️ Constantemente aprimorando minhas habilidades em arquitetura de software, testes unitários (JUnit) e versionamento de código.
-* 🌱 Atualmente me aprofundando em boas práticas de desenvolvimento backend, design patterns e automação.
+---
 
-## 🛠️ Tecnologias e Ferramentas
+🔭 **O que estou a construir / aprender atualmente**
 
-* **Linguagens:** Java
-* **Frameworks:** Spring Boot
-* **Testes:** JUnit
-* **Ferramentas:** Git, GitHub, Linha de Comando (CLI)
+* ☕ A focar-me no domínio do desenvolvimento back-end avançado com **Java** e o ecossistema **Spring Boot**.
+* ⚙️ A aprofundar conhecimentos em padrões de desenho (design patterns), arquitetura de software e testes unitários com **JUnit**.
+* 🎨 A explorar ferramentas e modelos de IA para a criação e transferência de estilos em imagens hiper-realistas.
 
-## 📈 Status do GitHub
+---
 
-<!-- Os cards abaixo geram estatísticas automáticas do seu perfil. Lembre-se de alterar 'SEU_USUARIO_AQUI' -->
-[![As estatísticas do Mateus no GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)](https://github.com/SEU_USUARIO_AQUI)
+🚀 **Stack Tecnológica e Ferramentas**
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight)](https://github.com/SEU_USUARIO_AQUI)
+**Back-End & Controlo de Versões:**
 
-## 📫 Como me encontrar
-
-* **LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-* **Email:** seu.email@exemplo.com
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,git,bash,github" alt="My Skills" />
+  </a>
+</p>
