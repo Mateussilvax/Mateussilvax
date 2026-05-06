@@ -15,6 +15,7 @@ Meu foco principal é a construção de aplicações robustas, eficientes e esca
 * ☕ Focando no domínio do desenvolvimento back-end avançado com **Java** e o framework **Spring Boot**.
 * ⚙️ Aprofundando conhecimentos em padrões de projeto (design patterns), arquitetura de software e testes unitários com **JUnit**.
 * 💻 Desenvolvendo e integrando interfaces de usuário modernas utilizando **React**, **JavaScript**, **HTML** e **CSS**.
+* 🐳 Aprimorando a criação de ambientes containerizados com **Docker** e a modelagem de dados utilizando **PostgreSQL** e **MongoDB**.
 
 ---
 
@@ -33,5 +34,13 @@ Meu foco principal é a construção de aplicações robustas, eficientes e esca
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Front-End Skills" />
+  </a>
+</p>
+
+**Banco de Dados & Infraestrutura:**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker" alt="Database and Infra Skills" />
   </a>
 </p>
